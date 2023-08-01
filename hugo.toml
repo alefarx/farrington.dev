@@ -1,0 +1,4 @@
+baseURL = 'https://farrington.dev'
+languageCode = 'en-us'
+title = "Alex Farrington's Dev Site"
+theme = 'ananke'
